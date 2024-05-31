@@ -1,0 +1,19 @@
+.spass-texto {
+    margin: 24px 0;
+}
+
+.spass-texto label {
+    display: block;
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+
+.spass-texto input {
+    background-color: #fff;
+    width: 100%;
+    padding: 24px;
+    box-sizing: border-box;
+    border: none;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.6);
+    font-size: 20px;
+}
